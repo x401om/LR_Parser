@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "740D0A751B12028E00DCF7EA"
-               BuildableName = "LR Parser"
-               BlueprintName = "LR Parser"
-               ReferencedContainer = "container:LR Parser.xcodeproj">
+               BlueprintIdentifier = "740D0A971B12101800DCF7EA"
+               BuildableName = "LR_parser"
+               BlueprintName = "LR_parser"
+               ReferencedContainer = "container:LR_parser.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "740D0A751B12028E00DCF7EA"
-            BuildableName = "LR Parser"
-            BlueprintName = "LR Parser"
-            ReferencedContainer = "container:LR Parser.xcodeproj">
+            BlueprintIdentifier = "740D0A971B12101800DCF7EA"
+            BuildableName = "LR_parser"
+            BlueprintName = "LR_parser"
+            ReferencedContainer = "container:LR_parser.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -52,10 +52,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "740D0A751B12028E00DCF7EA"
-            BuildableName = "LR Parser"
-            BlueprintName = "LR Parser"
-            ReferencedContainer = "container:LR Parser.xcodeproj">
+            BlueprintIdentifier = "740D0A971B12101800DCF7EA"
+            BuildableName = "LR_parser"
+            BlueprintName = "LR_parser"
+            ReferencedContainer = "container:LR_parser.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -71,10 +71,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "740D0A751B12028E00DCF7EA"
-            BuildableName = "LR Parser"
-            BlueprintName = "LR Parser"
-            ReferencedContainer = "container:LR Parser.xcodeproj">
+            BlueprintIdentifier = "740D0A971B12101800DCF7EA"
+            BuildableName = "LR_parser"
+            BlueprintName = "LR_parser"
+            ReferencedContainer = "container:LR_parser.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

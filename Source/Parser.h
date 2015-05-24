@@ -12,12 +12,12 @@
 #include <stdio.h>
 #include <string>
 #include <vector>
-#include "Table.h"
+#include <unordered_map>
 
 using namespace std;
 
 class Parser {
-  Table _table;
+  vector<unordered_map<string, string>> _gotoTable;
   
 public:
   Parser(std::vector<std::string> grammar);

@@ -19,3 +19,10 @@ Table::Table(std::vector<Rule> grammar) {
 vector<Rule> Table::getGrammar() {
   return _grammar;
 }
+
+vector<unordered_map<string, string>> Table::buildTable() {
+  vector<unordered_map<string, string>> table;
+  
+  table.push_back();
+  
+}

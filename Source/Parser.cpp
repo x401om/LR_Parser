@@ -7,6 +7,7 @@
 //
 
 #include "Parser.h"
+#include "Table.h"
 
 using namespace::std;
 
@@ -20,5 +21,10 @@ Parser::Parser(vector<string> grammarVector) {
     rule.rightSide = ruleString;
     grammar.push_back(rule);
   }
-  _table = Table(grammar);
+  Table table = Table(grammar);
+  _gotoTable = table.buildTable();
+}
+
+void Parser::Accept(std::string tokenString) {
+  
 }

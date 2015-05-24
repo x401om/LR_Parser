@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>LR Parser.xcscheme</key>
+		<key>LR_parser.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>740D0A751B12028E00DCF7EA</key>
+		<key>740D0A971B12101800DCF7EA</key>
 		<dict>
 			<key>primary</key>
 			<true/>

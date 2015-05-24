@@ -12,6 +12,7 @@
 #include <stdio.h>
 #include <vector>
 #include <string>
+#include <unordered_map>
 
 using namespace std;
 
@@ -26,6 +27,7 @@ public:
   Table();
   Table(vector<Rule> grammar);
   
+  vector<unordered_map<string, string>> buildTable(); // <token_name, shift/reduce/accept>
   vector<Rule> getGrammar();
 };
 

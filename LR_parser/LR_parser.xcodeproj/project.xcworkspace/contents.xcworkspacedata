@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:LR Parser.xcodeproj">
+      location = "self:LR_parser.xcodeproj">
    </FileRef>
 </Workspace>
